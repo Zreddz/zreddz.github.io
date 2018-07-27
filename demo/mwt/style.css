@@ -1,0 +1,95 @@
+#header {
+	background-color: #2e3133;
+	color: white;
+	height: 40px;
+}<
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a.header {
+	color: white;
+	font-size: 14pt;
+	text-decoration: none;
+	font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+a.header:hover {
+	color: #dedede;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #202024;
+	font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+    color: white;
+}
+
+#main-content {
+	font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+    text-align: center;
+    margin: 120px;
+}
+
+h1 {
+	font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+}
+
+#spacer {
+	height: 6px;
+}
+
+#footer {
+	
+}
+
+#body-banner {
+	background-image: url("banner.jpg");
+	width: 100%;
+	height: auto;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.banner-heading-1 {
+	font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+    font-size: 50pt;
+    text-shadow: 2px 2px 20px #000000;
+}
+
+.banner-heading-3 {
+	font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+    font-size: 30pt;
+    text-shadow: 2px 2px 20px #000000;
+}
+
+p {
+	font-family: "Helvetica Neue", "Segoe UI", Segoe, Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: lighter;
+}
